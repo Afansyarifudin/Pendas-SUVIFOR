@@ -26,3 +26,8 @@ cara menggunakan yaitu:
 3. pelajari dan jalankan kode python
 
 Happy code 😀
+
+# software for UAV
+
+- Mission Planner https://ardupilot.org/planner/
+- Dronekit Python https://dronekit-python.readthedocs.io/en/latest/
